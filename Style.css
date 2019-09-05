@@ -1,0 +1,60 @@
+body{
+    margin: 30px;
+    padding:0;
+    display:block;
+    /*background-color: #b2beb5;*/
+    background-image: url("bgdesert.jpg");
+}
+  
+.header-section .head-data .name-image{
+    padding: 10px;
+    display: inline-flex;
+
+}
+
+hr{
+    color:#8B4513;
+}
+
+.name h1, h3 {
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.name h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+div.contact{
+    position: relative;
+    left: 450px; 
+     
+}
+
+.skills-container{
+    color: #8B4513;
+}
+
+
+.skills-container .skills{
+    display: inline-flex;
+}
+
+
+.skills .the-skill{
+    width: 200px;
+    height: 20px;
+    border: 1px solid #8B4513;
+    border-radius: 30%;
+    text-align: center;
+    margin-left: 40px; 
+    background-color: rgb(187, 187, 199);
+
+}
+
+.skills .the-skills .div{
+    padding-top: 40px;
+}
+
+input #first-Name
